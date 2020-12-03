@@ -1,0 +1,10 @@
+com\company\Bot.class
+com\company\commands\HelpCommand.class
+com\company\commands\PingCommand.class
+com\company\commands\UptimeCommand.class
+com\company\Bot$1.class
+com\company\commands\Command.class
+com\company\commands\WeatherCommand.class
+com\company\listeners\GreeterListener.class
+com\company\commands\DiceCommand.class
+com\company\Bot$2.class
